@@ -1,7 +1,4 @@
 body, html {
-    /* background-color: red; */
-    /* overflow: hidden; */
-    /* display: flex; */
     background-color: rgb(39, 39, 39);
     color: white;
     padding: 0 0 40px;
@@ -11,7 +8,6 @@ a {
     text-decoration: none;
 }
 ul {
-    /* margin: 0 0 0; */
     padding-left: 20px;
 }
 li {
@@ -30,13 +26,11 @@ li {
     background-color: rgb(39, 39, 39);
 }
 .footer>a {
-    /* padding: 19px 0 0; */
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100%;
-    /* text-align: center; */
 }
 .content{
     line-height: 20px;
