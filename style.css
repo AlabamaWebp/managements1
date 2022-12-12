@@ -30,6 +30,7 @@ li {
     background-color: rgb(39, 39, 39);
 }
 .footer>a {
+    margin: 19px 0 0;
     width: 100%;
     height: 100%;
     text-align: center;
