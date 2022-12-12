@@ -44,25 +44,6 @@ li {
 =======
 .content>img {
     max-width: 100%;
-}
 
-
-/* .copy {
-    position: relative;
-    top: -200px;
 }
-.bebr {
-    animation: bebr infinite 1s;
-}
-@keyframes bebr {
-    from {
-        transform: rotate(0deg);
     }
-    50% {
-        transform: rotate(180deg) scale(20);
-        width: 300px;
-    }
-    to {
-        transform: rotate(360deg);
-    }
-} */
