@@ -38,3 +38,6 @@ li {
     height: 100%;
     /* text-align: center; */
 }
+.content>img {
+    max-width: 100%;
+}
