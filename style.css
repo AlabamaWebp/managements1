@@ -38,6 +38,11 @@ li {
     height: 100%;
     /* text-align: center; */
 }
+<<<<<<< HEAD
 .content{
     line-height: 20px;
+=======
+.content>img {
+    max-width: 100%;
+>>>>>>> 45460cacf00c654ff58ff7c2542370812dbbde3e
 }
