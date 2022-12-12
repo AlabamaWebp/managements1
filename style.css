@@ -38,3 +38,6 @@ li {
     height: 100%;
     /* text-align: center; */
 }
+.content{
+    line-height: 20px;
+}
